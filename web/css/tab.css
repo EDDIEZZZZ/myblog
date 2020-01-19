@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding: 0;margin: 0;line-height: 25px;}
+body{
+	margin: auto;
+		width: 100%;
+}
+.fankuibox{
+	margin:auto;
+	padding: 20px;
+}
+.guanli{
+	height: 22px;
+	width: 70px;
+}
+.chakan{
+	margin:auto;
+	padding: 20px;
+}
+.touxiang{
+	padding: 20px;
+	margin: auto;
+}
+.touxiang p img { 
+	width: 100px; 
+	height: 100px; 
+	display: block;
+	border-radius: 50%;
+	position: relative;
+	top: -25px;
+	left: 90px;
+}
+.wenjian{
+	position: relative;
+	top: -25px;
+	left: 100px;
+}
+.fankuicontent{
+	min-height: 80px;
+	width: 500px;
+	position: relative;
+	top: -30px;
+	left: 100px;
+	border: 1px #F2F2F2 solid;
+}
+.huifu li{
+	list-style: none;
+	margin-left: 10px;
+}

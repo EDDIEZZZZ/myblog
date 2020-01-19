@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+		body{
+			background: url("../img/login_bgx.gif");
+		}
+		.all{
+			height: 200px;
+			width:300px;
+/*         	margin: 150px 0 0 620px;*/
+			margin: auto;
+			padding-top: 100px;
+		 	background-color:#FFF;	
+			line-height: 25px;
+			/*font-style: '微软雅黑';*/
+			background: url("../img/login_bgx.gif");
+			
+		}
+.all input{
+	margin: 5px;
+}
+		h2{
+			text-align: center;
+		}
+		
+		.all .zh{
+			line-height: 30px;
+			width: 295px;
+		}
+		.all .yanzheng1{
+			line-height: 30px;
+			
+		}
+		.all .pass{
+			line-height: 30px;
+			width: 295px;
+		}
+		.all .tiaokuang{
+			font-size: 12px;
+		}
+		.tijiao{
+			line-height: 30px;
+			width:300px;
+ 			background:  #F26164;
+            color: white;
+            border: 1px solid #f10180;
+            text-align: center;
+		}
+		.sp{
+			font-size:12px;
+			color:#676363;
+			
+		}
+		.question{
+			height: 35px;
+			width: 299px;
+			padding-left: 5px;
+		}

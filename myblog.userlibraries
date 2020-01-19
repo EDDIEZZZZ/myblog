@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Study/myblog/lib/javax.annotation.jar" />
+    <archive path="C:/Study/myblog/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="C:/Study/myblog/lib/javax.transaction.jar" />
+    <archive path="C:/Study/myblog/lib/javax.jms.jar" />
+    <archive path="C:/Study/myblog/lib/javax.servlet.jsp.jar" />
+    <archive path="C:/Study/myblog/lib/javax.resource.jar" />
+    <archive path="C:/Study/myblog/lib/javax.servlet.jar" />
+    <archive path="C:/Study/myblog/lib/javax.persistence.jar" />
+    <archive path="C:/Study/myblog/lib/javax.ejb.jar" />
+  </library>
+</eclipse-userlibraries>
+
